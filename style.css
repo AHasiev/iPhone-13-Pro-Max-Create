@@ -1,0 +1,81 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.header {
+  height: 56px;
+  width: 428px;
+  background: #a77c5d;
+  display: flex;
+}
+
+.header_vector {
+  height: 10.961539268493652px;
+  width: 15px;
+  margin-left: 15px;
+  margin-top: 20px;
+}
+
+.header_title {
+  height: 28px;
+  width: 70px;
+  margin-left: 18px;
+  margin-top: 12px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+main {
+  background: #e5e5e5;
+  width: 428px;
+  height: 683px;
+  padding-top: 23px;
+}
+.main_inputFirst__input {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  margin-top: 11px;
+  margin-left: 15px;
+}
+
+.main_inputFirst,
+.main_inputFour {
+  display: flex;
+  height: 48.00199890136719px;
+  width: 400px;
+  margin-left: 13px;
+  border-radius: 8px;
+  border: 1px solid #a77c5d;
+}
+.main_inputFour {
+  margin-top: 38px;
+}
+
+.main_input__arrow {
+  width: 24px;
+  height: 24px;
+  margin-right: -2px;
+  margin-bottom: 12px;
+}
+
+.main_inputFirst__arrow,
+.main_inputFirst__bag {
+  height: 24px;
+  width: 24px;
+  margin-left: 293px;
+  margin-top: 11px;
+}
+
+.main_inputFour {
+  display: flex;
+}
+
+.main_inputFirst__bag {
+  height: 17.269142150878906px;
+  width: 17.920473098754883px;
+}
