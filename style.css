@@ -11,7 +11,7 @@
 }
 
 .header_vector {
-  height: 10.961539268493652px;
+  height: 10px;
   width: 15px;
   margin-left: 15px;
   margin-top: 20px;
@@ -34,7 +34,9 @@ main {
   height: 683px;
   padding-top: 23px;
 }
-.main_inputFirst__input {
+.main_inputName__input,
+.main_inputSpecies__input,
+.main_inputBirthday__input {
   font-family: Roboto;
   font-size: 16px;
   font-weight: 600;
@@ -43,16 +45,18 @@ main {
   margin-left: 15px;
 }
 
-.main_inputFirst,
-.main_inputFour {
+.main_inputName,
+.main_inputSpecies,
+.main_inputBirthday {
   display: flex;
-  height: 48.00199890136719px;
+  height: 48px;
   width: 400px;
   margin-left: 13px;
   border-radius: 8px;
   border: 1px solid #a77c5d;
 }
-.main_inputFour {
+.main_inputSpecies,
+.main_inputBirthday {
   margin-top: 38px;
 }
 
@@ -63,19 +67,19 @@ main {
   margin-bottom: 12px;
 }
 
-.main_inputFirst__arrow,
-.main_inputFirst__bag {
+.main_inputSpecies__arrow,
+.main_inputBirthday__bag {
   height: 24px;
   width: 24px;
   margin-left: 293px;
   margin-top: 11px;
 }
 
-.main_inputFour {
+.main_inputSpecies {
   display: flex;
 }
 
-.main_inputFirst__bag {
-  height: 17.269142150878906px;
-  width: 17.920473098754883px;
+.main_inputBirthday__bag {
+  height: 17px;
+  width: 17px;
 }
